@@ -1,3 +1,3 @@
-module github.com/rivo/uniseg
+module github.com/ex-preman/uniseg
 
 go 1.18
